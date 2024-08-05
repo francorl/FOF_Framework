@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FOF_Framework.cpp.obj": [
+			"FOF_Framework.init.gen.cpp.obj",
+			"FOF_TraceComponent.gen.cpp.obj",
+			"MeleeAnimNotifyState.gen.cpp.obj",
+			"FOF_Framework.cpp.obj",
+			"FOF_TraceComponent.cpp.obj",
+			"MeleeAnimNotifyState.cpp.obj"
+		]
+	}
+}

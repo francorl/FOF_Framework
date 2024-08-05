@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fof_framework\\module.fof_framework.cpp",
+        "ProvidedModule": "",
+        "PCH": "u:\\proyectosunreal\\testproyect\\cpptopdown\\intermediate\\build\\win64\\x64\\cpptopdowneditor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fof_framework\\definitions.fof_framework.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\unrealeditor\\inc\\fof_framework\\uht\\fof_framework.init.gen.cpp",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\unrealeditor\\inc\\fof_framework\\uht\\fof_tracecomponent.gen.cpp",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\source\\fof_framework\\public\\fof_tracecomponent.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\unrealeditor\\inc\\fof_framework\\uht\\fof_tracecomponent.generated.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\unrealeditor\\inc\\fof_framework\\uht\\meleeanimnotifystate.gen.cpp",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\source\\fof_framework\\public\\meleeanimnotifystate.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotifystate.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotifystate.generated.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\intermediate\\build\\win64\\unrealeditor\\inc\\fof_framework\\uht\\meleeanimnotifystate.generated.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\source\\fof_framework\\private\\fof_framework.cpp",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\source\\fof_framework\\public\\fof_framework.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\source\\fof_framework\\private\\fof_tracecomponent.cpp",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "u:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "u:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "u:\\proyectosunreal\\testproyect\\cpptopdown\\plugins\\fof_framework\\source\\fof_framework\\private\\meleeanimnotifystate.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

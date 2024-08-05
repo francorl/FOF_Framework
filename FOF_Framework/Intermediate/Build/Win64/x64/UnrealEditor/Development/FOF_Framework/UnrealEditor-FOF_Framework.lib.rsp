@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FOF_Framework.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"U:\ProyectosUnreal\TestProyect\CPPTopDown\Intermediate\Build\Win64\x64\CPPTopDownEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_1.h.obj"
+"U:\ProyectosUnreal\TestProyect\CPPTopDown\Plugins\FOF_Framework\Intermediate\Build\Win64\x64\UnrealEditor\Development\FOF_Framework\Module.FOF_Framework.cpp.obj"
+"U:\ProyectosUnreal\TestProyect\CPPTopDown\Plugins\FOF_Framework\Intermediate\Build\Win64\x64\UnrealEditor\Development\FOF_Framework\Default.rc2.res"
+/OUT:"U:\ProyectosUnreal\TestProyect\CPPTopDown\Plugins\FOF_Framework\Intermediate\Build\Win64\x64\UnrealEditor\Development\FOF_Framework\UnrealEditor-FOF_Framework.lib"
